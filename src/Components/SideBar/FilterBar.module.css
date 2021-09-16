@@ -1,0 +1,13 @@
+.sidebar {
+    width: 30%;
+    margin: 48px 0;
+    height: 90%;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.mt5 {
+    margin: 1rem;
+}
